@@ -1,0 +1,1 @@
+python PathAndImage.py C:\hogehoge\ImageAndPathName.txt C:\hogehoge\pathList1.txt  output2.txt 5

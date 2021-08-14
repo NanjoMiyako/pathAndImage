@@ -1,0 +1,7 @@
+Im1,C:\hogehoge\sample\a1.png
+Im2,C:\hogehoge\sample\b2.png
+Im3,C:\hogehoge\sample\c3.png
+Im4,C:\hogehoge\sample\d4.png
+Im5,C:\hogehoge\sample\e5.png
+Im6,C:\hogehoge\sample\f6.png
+Im7,C:\hogehoge\sample\g7.png
